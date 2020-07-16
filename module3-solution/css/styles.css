@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: pink;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+  background-color: rgb(43, 41, 41);
+}
+
+.navbar-inverse .navbar-brand {
+  color: rgb(252, 13, 132,15);
+  font-weight: 600;
+  font-size: x-large;
+}
+
+#header-nav button.navbar-toggle{
+  border: 2px solid palevioletred;
+}
+
+#nav-list a{
+  color:hotpink;
+  text-align: center;
+  font-weight: 600;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+#myNavbar{
+  background-color: black;
+}
+
+#main-content h1{
+  color: rgb(105, 31, 105);
+  padding-bottom: 10px;
+  margin-bottom: 20px; 
+}
+
+#main-content.container{
+  background-color: pink;
+}
+
+#main-content section{
+  background-color: white;
+  padding: 20px;
+  margin: 10px;
+}
+
+#main-content p{
+  color: rgb(255, 73, 103);
+}
+
+#main-content h2{
+  color:blueviolet;
+  font-size: large;
+  font-weight: 600 ;
+}
+
+#main-content a{
+  font-size: small;
+}
+
