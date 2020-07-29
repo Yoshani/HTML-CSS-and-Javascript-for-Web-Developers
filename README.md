@@ -1,1 +1,3 @@
-This contains the solutions for the assignments of the course HTML, CSS, and Javascript for Web Developers offered by Johns Hopkins University and conducted on Coursera.
+# HTML, CSS and JavaScript for Web Developers
+
+This repository contains the course material of the course HTML, CSS and JavaScript for Web Developers offered by Johns Hopkins University and hosted on Coursera. The web pages are hosted using GitHub pages.
